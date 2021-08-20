@@ -55,8 +55,8 @@ img {
 
 #mainArea { 
 	margin: auto;
-	width: 800px;
-	max-width: 70%;
+	width: 70%;
+	max-width: 800px;
 }
 
 section {
