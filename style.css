@@ -99,6 +99,8 @@ section {
 	color: rgba(68, 68, 68, 0.9);
 	font-size: 1.05em;
 	font-weight: 400;
+        text-align: justify;
+        text-justify: inter-word;
 }
 
 .subDetails {
