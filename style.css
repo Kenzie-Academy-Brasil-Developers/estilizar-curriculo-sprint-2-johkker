@@ -9,6 +9,7 @@
 .mainDetails {
 	width: 100%;
 	max-width: 800px;
+	min-width: 656px;
 	margin: auto;
 	padding-top: 7%;
 	padding-bottom: 3vh;
@@ -57,6 +58,7 @@ img {
 	margin: auto;
 	width: 70%;
 	max-width: 800px;
+	min-width: 460px;
 }
 
 section {
