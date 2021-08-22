@@ -5,6 +5,9 @@
 }
 
 
+ #cv {
+        background-color: #fbfbf8;
+} 
 
 .mainDetails {
 	width: 100%;
@@ -62,7 +65,7 @@ img {
 }
 
 section {
-	border-top: 1px solid rgba(68, 68, 68, 0.2);
+	border-top: 1px solid #dedede;
 }
 
 .sectionTitle {
