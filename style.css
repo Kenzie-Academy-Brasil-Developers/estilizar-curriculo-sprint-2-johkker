@@ -9,6 +9,9 @@ body, html {
 }
 
 
+ #cv {
+        background-color: #f3f3f3;
+} 
 
 .mainDetails {
 	width: 100%;
@@ -60,7 +63,7 @@ img {
 
 #mainArea { 
 	margin: auto;
-	width: 70%;
+	width: 85%;
 	max-width: 800px;
 	min-width: 460px;
 }
@@ -104,6 +107,8 @@ section {
 	color: #181818;
 	font-size: 1.05em;
 	font-weight: 400;
+        text-align: justify;
+        text-justify: inter-word;
 }
 
 .subDetails {
